@@ -10,7 +10,6 @@ sudo apt-get install -y nodejs
 
 sudo apt-get install -y build-essential
 ```
-If you have problems, check this: https://nodejs.org/en/download/package-manager/
 
 # The Chatbot App
 
