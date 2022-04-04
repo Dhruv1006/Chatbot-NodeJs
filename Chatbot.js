@@ -4,10 +4,10 @@ module.exports =
 	ChatbotReply:function(message)
 	{
 		// Bot's data
-		this.Bot_Age = 22;
-		this.Bot_Name = "Abdelrahman Radwan";
-		this.Bot_University = "Ain Shams University";
-		this.Bot_Country = "Egypt";
+		this.Bot_Age = 29;
+		this.Bot_Name = "Aditi Krushresta";
+		this.Bot_University = "Krishna Institute of Technology";
+		this.Bot_Country = "India";
 		// User data
 		this.User_Age;
 		this.User_Name;
